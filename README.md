@@ -2,7 +2,7 @@
 
 My Name is Tanmoy and I am a Tech Enthusiast, Software Engineer.
 
-You can find me on [Linkedin](https://www.linkedin.com/in/tanmoybcse/), [Twitter](https://twitter.com/s4kibs4mi), [StackOverflow](https://stackoverflow.com/users/6770042/tanmoy-biswas),. I also use few other social networks but I don't think that will be interesting for you.
+You can find me on [Linkedin](https://www.linkedin.com/in/tanmoybcse/), [Twitter](https://twitter.com/bravotanmoy), [StackOverflow](https://stackoverflow.com/users/6770042/tanmoy-biswas),. I also use few other social networks but I don't think that will be interesting for you.
 
 I have over 3 years of large scale software design & development experience (Backend).And obviously I am Front-End side. Experienced in both writing software from scratch and maintaining large existing projects. 
 
