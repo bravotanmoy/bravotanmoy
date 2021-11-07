@@ -9,7 +9,7 @@ I have over 3 years of large scale software design & development experience (Bac
 Although I am last 3 years I working on LAMP stack professionally. But I like MERN stack. Currently, I have basic knowledge in this stack, every day I study JavaScript to grow my skill. I had done few tasks on the MERN stack.  
 
 
-> ### Area of expertise :
+> ### Area Of Expertise :
 - REST,API design and development
 - Systems Development Life Cycle
 - Web Based Technologys
