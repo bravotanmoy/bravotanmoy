@@ -22,7 +22,6 @@ Although I am last 3 years I working on LAMP stack professionally. But I like ME
 - MySQL, MongoDB
 - Git, GitHub
 - Socket.IO
-- Blockchain, Ethereum
 - Linux
 - CI/CD pipeline
 
